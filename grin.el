@@ -9,7 +9,7 @@
   :group 'tools
   :group 'processes)
 
-(defcustom grin-cmd "grin --emacs"
+(defcustom grin-cmd "grin --emacs -i"
   "The grin command."
   :type 'string
   :group 'grin)
